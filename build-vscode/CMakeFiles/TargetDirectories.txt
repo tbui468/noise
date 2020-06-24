@@ -1,0 +1,3 @@
+C:/dev/Noise/build-vscode/CMakeFiles/ALL_BUILD.dir
+C:/dev/Noise/build-vscode/CMakeFiles/ZERO_CHECK.dir
+C:/dev/Noise/build-vscode/src/CMakeFiles/Noise.dir
